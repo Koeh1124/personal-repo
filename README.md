@@ -27,3 +27,11 @@ Night time routine
 [My Portfolio](koeh1124.github.io)
 
 [Useful stuff](https://theuselessweb.com/)
+
+## Persons of Intrest
+[The Doctor][1]
+<img src="imgs/phil.jpg" height="100px" width="200px">
+[Linus][2]
+<img src="imgs/hero" height="100px" width="200px">
+[This Guy][3]
+<img src="imgs/guyg" height="100px" width="200px">
