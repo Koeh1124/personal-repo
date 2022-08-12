@@ -29,9 +29,24 @@ Night time routine
 [Useful stuff](https://theuselessweb.com/)
 
 ## Persons of Intrest
-[The Doctor][1]
+[The Doctor][1]<br>
+<kbd>
 <img src="imgs/phil.jpg" height="100px" width="200px">
-[Linus][2]
-<img src="imgs/hero" height="100px" width="200px">
-[This Guy][3]
-<img src="imgs/guyg" height="100px" width="200px">
+</kbd><br>
+[Linus][2]<br>
+<kbd>
+<img src="imgs/hero.jpg" height="100px" width="200px">
+</kbd><br>
+[This Guy][3]<br>
+<kbd>
+<img src="imgs/guy.jpg" height="100px" width="200px">
+</kbd><br>
+
+##Favorite Terms
+| Terms | Why I love these things |
+|:-|:-:|
+| BoardGames | I love playing with friends and having fun |
+| Computers | I love the idea of taking simple instructions and repetting them over and over untill you have extreme complexity |
+| Code | I love solving problems and this is the medium I prefer to solove them in |
+| Math | I love numbers and computation |
+| Science | I love the idea of quantifing nature |
