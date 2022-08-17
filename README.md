@@ -24,7 +24,7 @@ Night time routine
 "__You__ can't see __me__"-John Cena
 
 ## My Favorite Websites
-[My Portfolio](koeh1124.github.io)
+[My Portfolio](koeh1124.github.io/potfolio)
 
 [Useful stuff](https://theuselessweb.com/)
 
